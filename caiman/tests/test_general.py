@@ -27,7 +27,7 @@ from builtins import range
 import copy
 import cv2
 import glob
-import logger
+import logging
 import matplotlib
 import numpy as np
 import os
